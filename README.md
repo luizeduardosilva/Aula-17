@@ -1,2 +1,2 @@
-# Aula-17
-Econometria Gerson
+# Aula---17
+Econometria Avançada
